@@ -1,6 +1,6 @@
 //Display the sum of 5 + 10, using two variables: x and y.
 
-class MyClass{
+public class MyClass{
 	public static void main(String[] args){	
 	int x = 5;
 	int y = 10;
