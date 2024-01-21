@@ -1,4 +1,4 @@
-# Watch Video Javascript Interstellar
+# `Exercicios de Java W3 Schools`
 
 🇧🇷 Exercícios práticos com a linguagem java atraveś da plataforma de estudos da W3Schools, foram 59 exercícios pontuando a minha primeira estrela e 59 pontos de conhecimento em java. &nbsp; <br>
 <br>
